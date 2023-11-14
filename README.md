@@ -1,6 +1,6 @@
 # System Design
 
-[Architecture] (https://github.com/andi-bandlab-assignment/.github/blob/main/architecture.jpg)
+![architecture](https://github.com/andi-bandlab-assignment/.github/assets/10074400/79e6c628-ece5-4a5f-8178-ea1184e78a98)
 
 ## Overview
 This document outlines the serverless architecture for a given coding assignment about social media application, 
