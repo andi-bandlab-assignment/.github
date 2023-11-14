@@ -34,3 +34,7 @@ focusing on image and post management.
 4. Comment Management:
 - A POST request to `/comments` adds a comment to a post through comment-handler.
 - A DELETE request to `/comments/{comment_id}/creators/{creator_id}` removes a comment by the creator.
+
+## API Docs
+Swagger API: https://andi-bandlab-assignment.github.io/swagger-api-docs/#/
+Postman Collection: https://web.postman.co/workspace/My-Workspace~099df822-3d93-4910-888d-bc5e8f6efd36/request/11655290-6378f31a-c614-4b5e-8a15-cdf296259d6b
