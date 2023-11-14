@@ -43,6 +43,6 @@ If the Swagger API does not work, you may try using Postman collection: https://
 ## What's Next
 This MVP is not production-ready. In order to ship to production, we have to complete the following:
 1. Unit Test in all services. Currently only `image-upload` has unit tests.
-2. CI/CD pipeline which include test and publish-zip stages.
+2. CI/CD pipeline which include test and publish-zip stages. The `gitlab-ci.yaml` is present but need to be configured with GitHub Actions.
 3. Terraform resources for all required AWS resources and permissions, e.g. Lambda, IAM role, DynamoDB, etc.
 4. Deployment via Jenkins job by specifying the Terraform resources, or Terraform CLI which includes Terraform init, plan, and apply.
