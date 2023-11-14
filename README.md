@@ -28,12 +28,12 @@ focusing on image and post management.
 - Once verified, it stores the post details in the user-post database.
 - If the image is not available, it would fallback to a default image in the same bucket.
 
-3. Post Retrieval:
-- A GET request to `/posts` retrieves the list of posts from post-retrieval.
-
-4. Comment Management:
+3. Comment Management:
 - A POST request to `/comments` adds a comment to a post through comment-handler.
 - A DELETE request to `/comments/{comment_id}/creators/{creator_id}` removes a comment belongs to the creator by the creator.
+
+4. Post Retrieval:
+- A GET request to `/posts` retrieves the list of posts including the most recent comments on each post from post-retrieval.
 
 ## API Docs
 Swagger API: https://andi-bandlab-assignment.github.io/swagger-api-docs/#/
