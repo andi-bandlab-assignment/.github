@@ -38,7 +38,7 @@ focusing on image and post management.
 ## API Docs
 Swagger API: https://andi-bandlab-assignment.github.io/swagger-api-docs/#/
 
-Postman Collection: https://web.postman.co/workspace/My-Workspace~099df822-3d93-4910-888d-bc5e8f6efd36/request/11655290-6378f31a-c614-4b5e-8a15-cdf296259d6b
+If the Swagger API does not work, you may try using Postman collection: https://web.postman.co/workspace/My-Workspace~099df822-3d93-4910-888d-bc5e8f6efd36/request/11655290-6378f31a-c614-4b5e-8a15-cdf296259d6b
 
 ## What's Next
 This MVP is not production-ready. In order to ship to production, we have to complete the following:
