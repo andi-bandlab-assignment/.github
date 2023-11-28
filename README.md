@@ -2,6 +2,9 @@
 
 ![architecture](https://github.com/andi-bandlab-assignment/.github/assets/10074400/79e6c628-ece5-4a5f-8178-ea1184e78a98)
 
+Revised design (28 Nov 2023)
+![Designv2](https://github.com/andi-bandlab-assignment/.github/assets/10074400/96265c23-a1ee-4290-adf7-ea8967e04adb)
+
 ## Overview
 This document outlines the serverless architecture for a given assignment about social media application, 
 focusing on image and post management.
